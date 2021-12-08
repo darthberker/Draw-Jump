@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Files/Scenes/Giri\u015F.unity"
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Files/Scenes/Kaybet.unity
+    guid: e69c58459914f724e8726fb68ac45192
+  - enabled: 1
+    path: Assets/Files/Scenes/Oyun.unity
+    guid: 1df873db797bd8544ab8890373dd6666
+  - enabled: 1
+    path: Assets/Files/Scenes/Oyun2.unity
+    guid: 3fc371cd987248a49a46cf0e160f011b
+  - enabled: 1
+    path: Assets/Files/Scenes/Oyun3.unity
+    guid: 61cb26e30132ed14c91ac62f06813b24
+  - enabled: 1
+    path: Assets/Files/Scenes/Kazan.unity
+    guid: a2a23e3c6d3818d44861e55c93204807
+  m_configObjects: {}
